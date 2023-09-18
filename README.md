@@ -16,5 +16,5 @@
 ## 사용 언어
  - python
 
-
-
+## 코로나
+![leisure_time_1](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/ad574970-2a84-4076-b105-f5eb4aa4fa99)
