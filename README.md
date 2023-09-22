@@ -30,3 +30,9 @@
 ![leisure_satisfaction](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/874e8d78-cc73-4a37-a875-ccec49aad423)
  - 여가시간 만족도는 시간이 지남에 따라 '만족'으로 맞춰지는 것으로 보임
  - 대체적으로 코로나 이전 여가시간 만족도는 소극적인 편이었으나 코로나로 인해서 여가시간이 증가하고, 여가시간에 따른 사용방식의 변화는 사람들에게 대체적으로 '만족'을 주었으며 이는 긍정적으로 보여진다.
+
+## 소비자 심리 분석
+### 1. 주요 키워드
+#### 2030/4050의 소비 키워드
+![2030](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/4922ef50-573e-4dd2-b54c-d7ef1e165710)
+![4050](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/813bd2f2-a8d5-442e-86fe-74a43ee5901c)
