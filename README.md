@@ -44,7 +44,7 @@
 #### 네트워크 시각화
 ![net](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/5e0d0c3c-4530-40d9-b167-e8f97bb1de5e)
 #### 토픽 모델링
-<img width="1260" alt="topic" src="https://github.com/intelligence-kim/LeisureTrends/assets/128572870/9d58f8d5-263a-4742-abc5-5da8c021af7b">
+![net](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/de9582c4-e88d-47ee-8a36-9958c9ccc1e4)
  - 2030의 스트레스 해소/자기만족의 키워드는 코로나로인한 다양한 온라인 플랫폼의 등장으로 새로운 소비자로 급부상한 것으로 보임
  - 이러한 결과는 2030세대는 코로나를 겪으면서 전적으로 자신에게 집중한 결과를 초래한 것으로 보임
 
