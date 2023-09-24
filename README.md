@@ -4,6 +4,11 @@
 포스트 코로나라 불리우는 현시대에서 여가시간의 변화와 그에따른 사람들의 주요 심리를 시각화하여 파악해본다.
 <br>
 
+## 프로젝트 기술 소개
+ - matplotlib / wordcloud /networkX 를 활용하여 다양한 시각화 진행 및 분석을 통한 유의미한 결론 도출
+ - beautifulsoup4 / selenium
+ - TopicModeling
+
 ## 개발 기간
  * 23.03.10 - 23.03.15 (5일)
 
