@@ -5,9 +5,9 @@
 <br>
 
 ## 프로젝트 기술 소개
- - matplotlib / wordcloud /networkX 를 활용하여 다양한 시각화 진행 및 분석을 통한 유의미한 결론 도출
- - beautifulsoup4 / selenium
- - TopicModeling
+ - 시각화 라이브러리 : matplotlib / wordcloud /networkX 를 활용하여 다양한 시각화 진행 및 분석을 통한 유의미한 결론 도출
+ - 크롤링 라이브러리 : BeautifulSoup4 / Selenium
+ - 토픽 모델링 : LDA
 
 ## 개발 기간
  * 23.03.10 - 23.03.15 (5일)
