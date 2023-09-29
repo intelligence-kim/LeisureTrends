@@ -23,9 +23,9 @@
 
 ## 프로젝트 분석 결과
 ## 데이터 수집
- - [문화 빅데이터 플랫폼(여가/문화 유형별 관심도)](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=62b70280-eb98-11ec-a6e8-cdf27550dc0d)
- - 문화 빅데이터 플랫폼(여가시간 활용 목적)
- - 문화 빅데이터 플랫폼(하루 평균 여가문화 시간 및 사용 비중)
+ - [문화 빅데이터 플랫폼(여가/문화 유형별 관심도)](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=6a5451f0-eb98-11ec-a6e8-cdf27550dc0d)
+ - [문화 빅데이터 플랫폼(여가시간 활용 목적)](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=62b70280-eb98-11ec-a6e8-cdf27550dc0d)
+ - [문화 빅데이터 플랫폼(하루 평균 여가문화 시간 및 사용 비중)](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=e057a550-f06b-11ec-a6e8-cdf27550dc0d)
 ## 여가시간 변화와 동향 분석
 ### 1. 여가시간의 변화
 ![leisure_time_1](https://github.com/intelligence-kim/LeisureTrends/assets/128572870/ad574970-2a84-4076-b105-f5eb4aa4fa99)
